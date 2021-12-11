@@ -1,0 +1,17 @@
+form{
+    border-radius: 10px;
+    text-align: center;
+    background-color: #6b76d5;
+    margin: auto;
+    width: 50%;
+    height: 30%;
+    
+}
+
+#hasil{
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: #6b76d5;
+}
